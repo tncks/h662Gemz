@@ -1,7 +1,12 @@
 {
-  "name": "next",
+  "name": "@tncks/h662gemz",
+  "description": "h",
+  "author": "tncks",
+  "publishConfig": {
+"@tncks:registry": "https://npm.pkg.github.com"
+}
+  "license": "MIT",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
